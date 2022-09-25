@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404639248652",
+    "project_id": "instaklon-8fc2a",
+    "storage_bucket": "instaklon-8fc2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404639248652:android:387aaad125488f786b9929",
+        "android_client_info": {
+          "package_name": "com.omarismayilov.instagramklon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404639248652-1mbl9pfne7auba5vopohdgvm2hju95a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWWFk73vjjOrGkMNsWkWuVQFuRkARKDsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404639248652-1mbl9pfne7auba5vopohdgvm2hju95a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
